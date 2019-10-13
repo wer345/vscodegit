@@ -1,2 +1,3 @@
 This is the second file
 Try stash again
+push to bare repo
