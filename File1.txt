@@ -1,3 +1,4 @@
 Restart changed by user 1
 Test Stach //fectch conflict 2
 Commit to bare repo master, second try
+user 2 added a line 
