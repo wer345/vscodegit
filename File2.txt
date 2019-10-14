@@ -1,4 +1,5 @@
 This is the second file
 Try stash again
 push to bare repo
+Modified in branch bUser1
 changed in master branch
